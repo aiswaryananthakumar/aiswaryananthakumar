@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aiswarya Nanthakumar</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiswaryananthakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aiswaryananthakumar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiswaryananthakumar" alt="aiswaryananthakumar" /></a> </p>
+<h1 align="center">Hi...!👋, I'm Aiswarya Nanthakumar</h1>
+<h3 align="center">Engineer by Day,Coder by Night|Future Tech Engineer|Coding Enthusiast</h3>
 
 - 🔭 I’m currently studing at **Kongunadu College of Engineering And Technology**
 
@@ -36,5 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiswaryananthakumar&show_icons=true&locale=en" alt="aiswaryananthakumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiswaryananthakumar&" alt="aiswaryananthakumar" /></p>
 
